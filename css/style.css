@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-display: fallback;
+  font-weight: 700;
+  src: local('Open Sans'), url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-display: fallback;
+  font-weight: 400;
+  src: local('Open Sans'), url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFVZ0b.woff2) format('woff2');
+}
+
 html {
   font-size: 100%;
   overflow-y: scroll;
